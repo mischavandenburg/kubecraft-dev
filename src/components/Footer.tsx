@@ -78,8 +78,8 @@ const Footer = () => {
                 </a>
               </li>
               <li className="text-gray-300">
-                <a href="mailto:mischa@kubecraft.com" className="hover:text-white transition-colors inline-block after:content-[''] after:block after:w-0 after:h-0.5 after:bg-white after:transition-all hover:after:w-full">
-                  mischa@kubecraft.com
+                <a href="mailto:mischa@kubecraft.nl" className="hover:text-white transition-colors inline-block after:content-[''] after:block after:w-0 after:h-0.5 after:bg-white after:transition-all hover:after:w-full">
+                  mischa@kubecraft.nl
                 </a>
               </li>
             </ul>
